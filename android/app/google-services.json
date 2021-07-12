@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241655959797",
+    "project_id": "advanced-web-architecture",
+    "storage_bucket": "advanced-web-architecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241655959797:android:3e4d7778200d171512b5bc",
+        "android_client_info": {
+          "package_name": "com.example.weaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241655959797-h9gbf8vsubktclp8n5peej6o2fv5tveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3jItr7LFr0RVHHkYXgzVR49oS5XFFHe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241655959797-h9gbf8vsubktclp8n5peej6o2fv5tveg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
